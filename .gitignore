@@ -30,3 +30,6 @@ _site/styles.css
 about.qmd
 index.qmd
 styles.css
+
+/.quarto/
+**/*.quarto_ipynb
