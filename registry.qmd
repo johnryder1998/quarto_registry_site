@@ -1,0 +1,8 @@
+---
+title: "Registry"
+image: DSC01009.JPEG
+about:
+  template: marquee
+---
+
+About this site
