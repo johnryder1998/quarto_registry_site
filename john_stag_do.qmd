@@ -1,0 +1,9 @@
+---
+title: "John and Seth's stag do"
+#image: 
+about:
+  template: marquee
+---
+
+text here
+---

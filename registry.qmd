@@ -1,8 +1,37 @@
 ---
 title: "Ella and John's Wedding Registry"
-image: DSC01009.JPEG
+image: motorbike_gift.png
 about:
   template: marquee
 ---
 
-Dynamic items here with photo and checklist
+I don't really like the idea of a registry, but we've been told that people buy you things regardless. So to prevent our house filling up with five different whiteware sets, we provide the following for your consideration.
+
+**Make sure you click the buttom "I've Purchased This Item" if you have got it.** I don't feel like programming a more robust solution for this.
+
+---
+
+### New couch for our lounge
+![Leather "daybed" for our lounge](LUNE_DAYBED_LAF_.png){width=50% fig-align="left"}
+
+This is a "daybed" from a furniture store we really like. Has good reviews and is a premium furniture piece that we would probably never bring ourselves to buy if it was not giften to us.
+
+[Buy this item](https://www.freedomfurniture.co.nz/product/24549042){.btn .btn-primary role="button"}
+
+[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
+
+---
+
+---
+
+### Ducati Monster (for Ella)
+![2026 Monster](2026-ducati-monster.jpg){width=50% fig-align="left"}
+
+This is for practical, safe, mode of transportation fit for a fuel chris. This is *not for fun*. jlla has wanted this bike since shhe was 12. Also, recall the following quote from *George Bernard Shaw*  - "all progress depends on the unreasonable man."
+
+[Buy this item](https://www.royalecars.co.nz/vehicle/2026-Ducati-Monster/19621?s=1){.btn .btn-primary role="button"}
+
+[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
+
+---
+
