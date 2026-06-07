@@ -8,21 +8,16 @@ about:
 fig-cap-location: bottom
 ---
 
-<div class="alert alert-primary alert-dismissible fade show" role="alert">
-  <i class="bi bi-info-circle"></i> <strong>Update:</strong> Please Make sure you click the buttom “I’ve Purchased This Item” if you have got it. I don’t feel like programming a more robust solution for this!
-  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-</div>
+<div class="alert alert-primary alert-dismissible fade show" role="alert">  <i class="bi bi-info-circle"></i> <strong>Note:</strong> Please make sure you click the button “I’ve Purchased This Item” after your purchase. I don’t feel like programming a more robust solution for this, sorry.    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div>
 
 I don't really like the idea of a registry, but we've been told that people buy you things regardless. So to prevent our house filling up with five different whiteware sets, we provide the following for your consideration.
-
-**Make sure you click the buttom "I've Purchased This Item" if you have got it.** I don't feel like programming a more robust solution for this.
 
 ---
 
 ### New couch for our lounge
-![Leather "daybed" for our lounge](LUNE_DAYBED_LAF_.png){width=50% fig-align="left"}
+![Leather "daybed" for our lounge](LUNE_DAYBED_LAF_.png){width=100% fig-align="center"}
 
-This is a "daybed" from a furniture store we really like. Has good reviews and is a premium furniture piece that we would probably never bring ourselves to buy if it was not giften to us.
+This is a "daybed" from a furniture store we really like. It has good reviews and is a premium furniture piece that we would probably never bring ourselves to buy if it was not gifted to us.
 
 [Buy this item](https://www.freedomfurniture.co.nz/product/24549042){.btn .btn-primary role="button"}
 
@@ -33,9 +28,9 @@ This is a "daybed" from a furniture store we really like. Has good reviews and i
 ---
 
 ### Ducati Monster (for Ella)
-![2026 Monster](2026-ducati-monster.jpg){width=50% fig-align="left"}
+![2026 Monster](2026-ducati-monster.jpg){width=100% fig-align="center"}
 
-This is for practical, safe, mode of transportation fit for a fuel chris. This is *not for fun*. jlla has wanted this bike since shhe was 12. Also, recall the following quote from *George Bernard Shaw*  - "all progress depends on the unreasonable man."
+This is for practical, reliable, mode of transportation fit for a fuel chris. This is *not for fun*. Ella has wanted this bike since she was 12. I ask you to recall the following quote from *George Bernard Shaw* - "all progress depends on the unreasonable man."
 
 [Buy this item](https://www.royalecars.co.nz/vehicle/2026-Ducati-Monster/19621?s=1){.btn .btn-primary role="button"}
 
@@ -43,3 +38,10 @@ This is for practical, safe, mode of transportation fit for a fuel chris. This i
 
 ---
 
+::: {.callout-note appearance="simple"}
+
+## Page under construction
+
+More items to be added.
+
+:::

@@ -1,29 +1,36 @@
 ---
-title: "On The Day Itinerary"
+title: "Wedding Itinerary"
 about:
-   image: DSC03105.JPEG
-   image-width: 100%
+   image: pikorua2.png
+   image-width: 50%
    image-shape: rounded
    template: trestles
 fig-cap-location: bottom
 ---
 
 
----
+![The venue - our front yard](DSC03105.JPEG){width=100% fig-align="center"}
 
-### 02:30PM - Arrive at 23 Kererū Street
-
----
-
-### 04:00PM Ceremony
 
 ---
 
-### After ceremony Drinks and nibbles at our house
+### 02:30PM
+Arrive at 23 Kererū Street
 
 ---
 
-### 07:00PM Travel to Reception
+### 04:00PM
+Ceremony
+
+---
+
+### \~05:00PM 
+After ceremony Drinks and nibbles at our house
+
+---
+
+### 07:00PM
+Travel to Reception
 Hosted at XXX
 
 ---

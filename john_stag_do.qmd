@@ -1,10 +1,17 @@
 ---
-title: "John's stag do"
+title: "Seth and John's stag do"
 about:
-   image: DSC01009.JPEG
-   image-width: 100%
-   image-shape: rounded
+   image: alan_hangover.png
+   image-width: 70%
+   image-shape: round
    template: trestles
 fig-cap-location: bottom
 ---
-text
+
+::: {.callout-note appearance="simple"}
+
+## Page under construction
+
+Details to come
+
+:::

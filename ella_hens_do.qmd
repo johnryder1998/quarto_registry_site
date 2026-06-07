@@ -1,13 +1,17 @@
 ---
-title: "Ella hens do"
+title: "Ella's hens do"
 about:
-   image: DSC01009.JPEG 
+   image: magic_mike.jpg
    image-width: 100%
    image-shape: rounded 
    template: trestles
 fig-cap-location: bottom
 ---
 
+::: {.callout-note appearance="simple"}
 
+## Page under construction
 
-text here
+Details to come
+
+:::
