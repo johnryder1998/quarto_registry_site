@@ -1,9 +1,13 @@
 ---
-title: "Ella's hens do"
-#image: 
+title: "Ella hens do"
 about:
-  template: marquee
+   image: DSC01009.JPEG 
+   image-width: 100%
+   image-shape: rounded 
+   template: trestles
+fig-cap-location: bottom
 ---
 
+
+
 text here
----

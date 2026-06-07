@@ -1,9 +1,17 @@
 ---
 title: "Ella and John's Wedding Registry"
-image: motorbike_gift.png
 about:
-  template: marquee
+   image: motorbike_gift.png
+   image-width: 100%
+   image-shape: rounded
+   template: trestles
+fig-cap-location: bottom
 ---
+
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+  <i class="bi bi-info-circle"></i> <strong>Update:</strong> Please Make sure you click the buttom “I’ve Purchased This Item” if you have got it. I don’t feel like programming a more robust solution for this!
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
 
 I don't really like the idea of a registry, but we've been told that people buy you things regardless. So to prevent our house filling up with five different whiteware sets, we provide the following for your consideration.
 

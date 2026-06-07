@@ -2,9 +2,12 @@
 title: "General wedding details"
 about:
    image: DSC01009.JPEG 
-   template: marquee
+   image-width: 100%
+   image-shape: rounded 
+   template: trestles
 fig-cap-location: bottom
 ---
+
 Kia ora all,
 
 Our wedding will be held on the 23rd of January, 2027 NZDT. The venue will be our house - 23 Kererū street, Taupō, New Zealand.

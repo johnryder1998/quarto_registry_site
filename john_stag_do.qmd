@@ -1,9 +1,10 @@
 ---
-title: "John and Seth's stag do"
-#image: 
+title: "John's stag do"
 about:
-  template: marquee
+   image: DSC01009.JPEG
+   image-width: 100%
+   image-shape: rounded
+   template: trestles
+fig-cap-location: bottom
 ---
-
-text here
----
+text

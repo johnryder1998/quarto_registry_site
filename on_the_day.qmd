@@ -1,9 +1,13 @@
 ---
 title: "On The Day Itinerary"
-image: DSC03105.JPEG 
 about:
-  template: marquee
+   image: DSC03105.JPEG
+   image-width: 100%
+   image-shape: rounded
+   template: trestles
+fig-cap-location: bottom
 ---
+
 
 ---
 
