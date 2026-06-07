@@ -1,0 +1,17 @@
+---
+title: ""
+about:
+   image: rsvp.png
+   image-width: 100%
+   image-shape: rounded
+   template: trestles
+fig-cap-location: bottom
+---
+
+add google form here...
+
+### *Please RSVP no later than dd/mm/yyyy*
+\
+\
+\
+Apparently R.S.V.P. means "répondez s'il vous plaît"
