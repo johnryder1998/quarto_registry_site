@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -222,8 +223,7 @@ ul.task-list li input[type="checkbox"] {
       }
     };
     const authorPrefersDark = false;
-    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
-    const darkModeDefault = queryPrefersDark.matches;
+    const darkModeDefault = authorPrefersDark;
       document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
       document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
@@ -236,14 +236,6 @@ ul.task-list li input[type="checkbox"] {
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
-    queryPrefersDark.addEventListener("change", e => {
-      if(window.localStorage.getItem("quarto-color-scheme") !== null)
-        return;
-      const alternate = e.matches
-      toggleColorMode(alternate);
-      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
-      toggleGiscusIfUsed(alternate, darkModeDefault);
-    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -310,6 +302,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
   <li><a href="#pm" id="toc-pm" class="nav-link active" data-scroll-target="#pm">02:30PM</a></li>
   <li><a href="#pm-1" id="toc-pm-1" class="nav-link" data-scroll-target="#pm-1">04:00PM</a></li>
@@ -321,62 +314,85 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="pikorua2.png" class="about-image
-  rounded " style="width: 50%;">
+<main class="content" id="quarto-document-content">
+
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Wedding Itinerary</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
 
 
+<div class="callout callout-style-simple callout-note callout-empty-content callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Page under construction
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="DSC03105.JPEG" class="img-fluid figure-img" style="width:100.0%"></p>
 <figcaption>The venue - our front yard</figcaption>
 </figure>
 </div>
-<hr>
 <section id="pm" class="level3">
-<h3 data-anchor-id="pm">02:30PM</h3>
+<h3 class="anchored" data-anchor-id="pm">02:30PM</h3>
 <p>Arrive at venue.</p>
 <p>23 Kererū Street, Two Mile Bay, Taupō</p>
 <hr>
 </section>
 <section id="pm-1" class="level3">
-<h3 data-anchor-id="pm-1">04:00PM</h3>
+<h3 class="anchored" data-anchor-id="pm-1">04:00PM</h3>
 <p>Ceremony</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="pikorua2.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="border-radius: 30px;;width:10.0%"></p>
+</figure>
+</div>
 <hr>
 </section>
 <section id="pm-2" class="level3">
-<h3 data-anchor-id="pm-2">~05:00PM</h3>
+<h3 class="anchored" data-anchor-id="pm-2">~05:00PM</h3>
 <p>After ceremony Drinks and nibbles at our house</p>
 <hr>
 </section>
 <section id="pm-3" class="level3">
-<h3 data-anchor-id="pm-3">07:00PM</h3>
+<h3 class="anchored" data-anchor-id="pm-3">07:00PM</h3>
 <p>Travel to Reception Hosted at XXX</p>
 <hr>
 </section>
 <section id="pm-4" class="level3">
-<h3 data-anchor-id="pm-4">10:00PM</h3>
+<h3 class="anchored" data-anchor-id="pm-4">10:00PM</h3>
 <hr>
 </section>
 <section id="late" class="level3">
-<h3 data-anchor-id="late">late</h3>
+<h3 class="anchored" data-anchor-id="late">late</h3>
 <p>idk, usually gets loose at this point</p>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -392,6 +408,13 @@ ul.task-list li input[type="checkbox"] {
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

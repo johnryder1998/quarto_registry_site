@@ -1,18 +1,15 @@
 ---
 title: "Wedding Itinerary"
-about:
-   image: pikorua2.png
-   image-width: 50%
-   image-shape: rounded
-   template: trestles
-fig-cap-location: bottom
+from: markdown+emoji
 ---
 
+::: {.callout-note appearance="simple"}
 
-![The venue - our front yard](DSC03105.JPEG){width=100% fig-align="center"}
+## Page under construction
 
+:::
 
----
+![The venue - our front yard](DSC03105.JPEG){width="100%"}
 
 ### 02:30PM
 Arrive at venue.
@@ -23,6 +20,8 @@ Arrive at venue.
 
 ### 04:00PM
 Ceremony
+
+![](pikorua2.png){style="border-radius: 30px;" width=10% fig-align="left"}
 
 ---
 

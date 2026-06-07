@@ -1,17 +1,14 @@
 ---
-title: ""
-about:
-   image: rsvp.png
-   image-width: 100%
-   image-shape: rounded
-   template: trestles
+title: "Please RSVP by dd/mm/yyyy"
+from: markdown+emoji
 fig-cap-location: bottom
 ---
 
-add google form here...
+![](rsvp.png){style="border-radius: 20px;" width=60% fig-align="left"}
 
-### *Please RSVP no later than dd/mm/yyyy*
-\
+
+[Reply here](https://docs.google.com/forms/d/e/1FAIpQLSdDOogay-pCFfHWBsLNNo4nmejDckpX_rcVVZ1eDfkpwFuFtQ/viewform?usp=publish-editor){.btn .btn-primary role="button"}
+
 \
 \
 Apparently R.S.V.P. means "répondez s'il vous plaît"

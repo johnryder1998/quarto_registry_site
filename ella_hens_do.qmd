@@ -1,11 +1,6 @@
 ---
-title: "Ella's hens do"
-about:
-   image: magic_mike.jpg
-   image-width: 100%
-   image-shape: rounded 
-   template: trestles
-fig-cap-location: bottom
+title: "Ella's Hens do"
+from: markdown+emoji
 ---
 
 ::: {.callout-note appearance="simple"}
@@ -15,3 +10,7 @@ fig-cap-location: bottom
 Details to come
 
 :::
+
+![](magic_mike.jpg){style="border-radius: 20px;" width=70% fig-align="left"}
+
+

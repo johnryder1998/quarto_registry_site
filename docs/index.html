@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -222,8 +223,7 @@ ul.task-list li input[type="checkbox"] {
       }
     };
     const authorPrefersDark = false;
-    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
-    const darkModeDefault = queryPrefersDark.matches;
+    const darkModeDefault = authorPrefersDark;
       document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
       document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
@@ -236,14 +236,6 @@ ul.task-list li input[type="checkbox"] {
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
-    queryPrefersDark.addEventListener("change", e => {
-      if(window.localStorage.getItem("quarto-color-scheme") !== null)
-        return;
-      const alternate = e.matches
-      toggleColorMode(alternate);
-      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
-      toggleGiscusIfUsed(alternate, darkModeDefault);
-    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -310,6 +302,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
   <li><a href="#venue" id="toc-venue" class="nav-link active" data-scroll-target="#venue">Venue</a></li>
   <li><a href="#accommodation" id="toc-accommodation" class="nav-link" data-scroll-target="#accommodation">Accommodation</a></li>
@@ -317,26 +310,33 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#getting-to-nz" id="toc-getting-to-nz" class="nav-link" data-scroll-target="#getting-to-nz">Getting to NZ</a></li>
   <li><a href="#things-to-do-in-taupō" id="toc-things-to-do-in-taupō" class="nav-link" data-scroll-target="#things-to-do-in-taupō">Things to do in Taupō</a>
   <ul class="collapse">
-  <li><a href="#to-eat" id="toc-to-eat" class="nav-link" data-scroll-target="#to-eat">To eat</a></li>
+  <li><a href="#to-eat-and-drink" id="toc-to-eat-and-drink" class="nav-link" data-scroll-target="#to-eat-and-drink">To eat and drink</a></li>
   <li><a href="#to-do" id="toc-to-do" class="nav-link" data-scroll-target="#to-do">To do</a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="DSC01009.JPEG" class="about-image
-  rounded " style="width: 100%;">
+<main class="content" id="quarto-document-content">
+
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">General wedding details</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
 
 
 <div class="callout callout-style-simple callout-note callout-empty-content callout-titled">
@@ -349,20 +349,26 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
+
 </div>
+</div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="DSC01009.JPEG" class="img-fluid quarto-figure quarto-figure-left figure-img" style="border-radius: 20px;;width:100.0%"></p>
+</figure>
 </div>
 <p><strong>Kia ora all,</strong></p>
 <p>Our wedding will be held on the 23rd of January, 2027 NZDT. The venue will be our house - 23 Kererū street, Taupō, New Zealand.</p>
 <p>This site is intended to give you some details about logistics, and to help keep everyone organised. In particular to the yanks coming all this way - I appreciate that NZ is a long way to travel for a wedding, especially for those with babies, and we want to help as much as we can to make it a smooth trip. Hopefully after visiting you will understand why we have chosen to live here.</p>
 <section id="venue" class="level2">
-<h2 data-anchor-id="venue">Venue</h2>
+<h2 class="anchored" data-anchor-id="venue">Venue</h2>
 <p>The ceremony will be held at out house - 23 Kererū street. It’s the mansion at the end of the street. Actually it’s not, but we should all fit. Most of you have probably seen photos already.</p>
 <p>Taupō is a small town in the centre of the north island of NZ. We lived in Dunedin, Wellington, and have now landed here. Taupō is known for it’s natural beauty, big ass lake, tourist attractions, proximity to the mountain, etc. The natural beauty highlights include geothermal pools, the maunga Ruapehū, and swimming holes. Although there are many tourists, it still feels like a small town. Lake Taupō is the biggest lake in NZ, and feels a lot like lake Michigan in terms of its clarity and summer temperature.</p>
 <p>Because of the tourist industry there is lots to do. We have bungy jumping, sky diving, river jet boat rides, fly fishing, wine tasting, beaches.. the list is endless really. We have provided the page here which documents our recommendations, but it’s also probably best if you just look it up online.</p>
 <p>I hope this can be treated as ‘forced’ vacation for all of you. The word “forced” carrying the meaning that you will feel strongly obliged to take some time of work, and treat yourself to a vacation in our beautiful little sheep overrun country. That said, reiterating I understand this is an expensive trip. If you don’t think you can afford this let me know and maybe we can work something out.</p>
 </section>
 <section id="accommodation" class="level2">
-<h2 data-anchor-id="accommodation">Accommodation</h2>
+<h2 class="anchored" data-anchor-id="accommodation">Accommodation</h2>
 <p>Taupō has many places to stay. We do not have any specific recommendations, but if you are still looking for accommodation recommend the following sites:</p>
 <p><a href="https://www.holidayhouses.co.nz/">Holiday homes</a></p>
 <p><a href="https://www.airbnb.co.nz/">Airbnb</a></p>
@@ -371,42 +377,69 @@ ul.task-list li input[type="checkbox"] {
 <p>Because of the volume of places to stay you can be choosy - and we recommend getting one within a few km’s of our house.</p>
 </section>
 <section id="wedding-size" class="level2">
-<h2 data-anchor-id="wedding-size">Wedding size</h2>
+<h2 class="anchored" data-anchor-id="wedding-size">Wedding size</h2>
 <p>This is going to be a pretty small event with only our closest friends and family invited. Currently there are about 50 people on the list. Exclusive, chic, fashionable <span class="emoji" data-emoji="nail_care">💅</span>.</p>
 </section>
 <section id="getting-to-nz" class="level2">
-<h2 data-anchor-id="getting-to-nz">Getting to NZ</h2>
+<h2 class="anchored" data-anchor-id="getting-to-nz">Getting to NZ</h2>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="air_nz.png" class="img-fluid figure-img" style="width:100.0%"></p>
-<figcaption>Koru</figcaption>
+<p><img src="air_nz.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="border-radius: 20px;;width:100.0%"></p>
 </figure>
 </div>
 <p>There are a 3 or so airlines that fly to New Zealand direct from U.S.A. We have flown on a few of them - and from these experiences - recommend Air New Zealand. AirNZ has nice planes, service, food, and offer a great option those with babies by the addition to your ticket called the “sky couch”. Air New Zealand is also a member of the Star Alliance so you can use points you have accumulated from other Star Alliance airlines (such as United airlines).</p>
 <p>AirNZ flies direct to Auckland NZ from Los Angles, San Francisco, New York, Vancouver, and Houston. From Auckland you can fly to Taupō (a 50 min. flight). The flight from Auckland to Taupō is less than $80 USD so that probably makes the most sense. I encourage you to send us your flights before you book them, sometimes the slightly cheaper option will send you the wrong way around the world and be much worse.</p>
 </section>
 <section id="things-to-do-in-taupō" class="level2">
-<h2 data-anchor-id="things-to-do-in-taupō">Things to do in Taupō</h2>
-<div class="quarto-figure quarto-figure-left">
+<h2 class="anchored" data-anchor-id="things-to-do-in-taupō">Things to do in Taupō</h2>
+<div class="quarto-figure quarto-figure-left" style="border-radius: 20px;">
 <figure class="figure">
 <p><img src="carvings.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
-<figcaption>Whakamoenga Point Carvings</figcaption>
+<figcaption>Whakamoenga Point Rock Carvings</figcaption>
 </figure>
 </div>
-<section id="to-eat" class="level3">
-<h3 data-anchor-id="to-eat">To eat</h3>
+<section id="to-eat-and-drink" class="level3">
+<h3 class="anchored" data-anchor-id="to-eat-and-drink">To eat and drink</h3>
+<section id="two-mile-bay-sailing-club" class="level4">
+<h4 class="anchored" data-anchor-id="two-mile-bay-sailing-club">Two Mile Bay Sailing Club</h4>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3707.9053536962897!2d176.07657999447085!3d-38.71563772070861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6bf08785d891a3%3A0xbb2f9320cd6e5344!2sTwo%20Mile%20Bay%20Sailing%20Club!5e1!3m2!1sen!2snz!4v1780829983768!5m2!1sen!2snz" style="border:0; width: 100%; aspect-ratio: 4 / 3;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<p><span class="emoji" data-emoji="thumbsup">👍</span></p>
 <ul>
-<li>item 1</li>
-<li>item 2</li>
-<li>item 3</li>
+<li>Locals favourite,</li>
+<li>in Two Mile Bay,</li>
+<li>little ones (and Zach) can swim while adults drink,</li>
+</ul>
+<p><span class="emoji" data-emoji="thumbsdown">👎</span></p>
+<ul>
+<li>Only sell one beer,</li>
+<li>only do pizza</li>
 </ul>
 </section>
-<section id="to-do" class="level3">
-<h3 data-anchor-id="to-do">To do</h3>
+<section id="ploughmans-restaurant" class="level4">
+<h4 class="anchored" data-anchor-id="ploughmans-restaurant">Ploughmans Restaurant</h4>
+<p><span class="emoji" data-emoji="thumbsup">👍</span></p>
 <ul>
-<li>item 1</li>
-<li>item 2</li>
-<li>item 3</li>
+<li>Nice atmosphere for a drink,</li>
+<li>outdoor seating,</li>
+<li>next to “Fix Box” fish-and-chips,</li>
+<li>in Two Mile Bay</li>
+</ul>
+<p><span class="emoji" data-emoji="thumbsdown">👎</span></p>
+<ul>
+<li>grumpy waitress,</li>
+<li>cannot vouch for food.</li>
+</ul>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3707.9177159109613!2d176.07285338325343!3d-38.718593773563576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6bf0637e2e9f59%3A0x5a3ea5319d3ef51a!2sPloughmans%20Restaurant!5e1!3m2!1sen!2snz!4v1780829936437!5m2!1sen!2snz" style="border:0; width: 100%; aspect-ratio: 4 / 3;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</section>
+</section>
+<section id="to-do" class="level3">
+<h3 class="anchored" data-anchor-id="to-do">To do</h3>
+<ul>
+<li>option1</li>
+<li>option2</li>
+<li>option3</li>
 </ul>
 <p><strong>Ngā mihi,<br>
 John and Ella</strong></p>
@@ -414,9 +447,8 @@ John and Ella</strong></p>
 
 </section>
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -432,6 +464,13 @@ John and Ella</strong></p>
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

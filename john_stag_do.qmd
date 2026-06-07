@@ -1,11 +1,6 @@
 ---
 title: "Seth and John's stag do"
-about:
-   image: alan_hangover.png
-   image-width: 70%
-   image-shape: round
-   template: trestles
-fig-cap-location: bottom
+from: markdown+emoji
 ---
 
 ::: {.callout-note appearance="simple"}
@@ -15,3 +10,6 @@ fig-cap-location: bottom
 Details to come
 
 :::
+
+![](alan_hangover.png){style="border-radius: 20px;" width=40% fig-align="left"}
+
