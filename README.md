@@ -1,4 +1,4 @@
-### repo to store rendered `html` from local computer.
+### Repository to store and publish wedding website.
 `html` site built using Quarto.
 
 ### Instructions
