@@ -8,4 +8,10 @@ In local repo create, preview, and build `html` files using Quarto. Only files n
 
 - Build `html` source for site with `quarto render`
 
-- Push local changes to remote repo and publish site to internet `git commit -m "commit message" && git push origin main`
+- Push local changes to remote repo and publish site to internet:
+
+```
+$ git add .
+$ git commit -m "commit message"
+$ git push origin main`
+```
