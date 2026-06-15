@@ -13,5 +13,5 @@ In local repo create, preview, and build `html` files using Quarto. Only files n
 ```
 $ git add .
 $ git commit -m "commit message"
-$ git push origin main`
+$ git push origin main
 ```
