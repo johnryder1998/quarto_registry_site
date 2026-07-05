@@ -15,3 +15,4 @@ $ git add .
 $ git commit -m "commit message"
 $ git push origin main
 ```
+[site here](https://johnryder1998.github.io/quarto_registry_site/)
