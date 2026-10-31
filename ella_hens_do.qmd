@@ -1,0 +1,12 @@
+---
+title: "Ella's Hens do"
+from: markdown+emoji
+---
+
+![](magic_mike.jpg){style="border-radius: 20px;" width=80% fig-align="left"}
+
+## Date
+**TBD**
+
+## Days events
+Details to be provided in personal messages.

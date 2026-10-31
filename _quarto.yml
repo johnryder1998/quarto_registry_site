@@ -1,0 +1,34 @@
+project:
+  type: website  
+  output-dir: docs
+website:
+  favicon: "favicon.png"
+  title: "Ella and John"
+  search: True
+  navbar: 
+    tools-collapse: true
+    collapse-below: "xxl"
+    logo: "pikorua.png" 
+    logo-href: index.qmd
+    collapse: True
+    background: primary
+    type: light
+    left: 
+      - text: "General"
+        href: index.qmd
+      - text: "Wedding Itinerary"
+        href: on_the_day.qmd
+      - text: "R.S.V.P."
+        href: rsvp.qmd
+      - text: "John's stag do"
+        href: john_stag_do.qmd
+      - text: "Registry"
+        href: registry.qmd
+format:
+  html:
+    css: styles.css
+    theme: 
+      light: lux
+      dark: darkly
+    toc: true
+    toc-location: "right"
