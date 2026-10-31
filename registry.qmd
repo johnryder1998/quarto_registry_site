@@ -34,16 +34,6 @@ Waikato \
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
-## Another Lamp
-[![Link embedded in image too](https://www.ikea.com/nz/en/images/products/varptross-floor-lamp-bamboo__1509475_pe1009725_s5.jpg?f=xxxl)](https://www.ikea.com/nz/en/p/varptross-floor-lamp-bamboo-90601219/){style="border-radius: 30px;" width=100% fig-align="center"}
-
-I love lamp.
-
-[Buy this item](https://www.ikea.com/nz/en/p/varptross-floor-lamp-bamboo-90601219/){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
-
-
 ## Temuka plates x2
 [![Link embedded in image too](https://temukapottery.co.nz/cdn/shop/files/1.jpg?v=1771889965&width=1680)](https://temukapottery.co.nz/products/studio-scandi-27cm-plate-cinnamon-glaze-effect){style="border-radius: 30px;" width=100% fig-align="center"}
 
@@ -95,14 +85,6 @@ In "Brown pod" colour.
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
-## Tallboy
-[![Link embedded in image too](https://www.mocka.co.nz/cdn/shop/files/T04541_LowRes_01.jpg?v=1771409352&width=1200)](https://www.mocka.co.nz/products/osaka-tallboy-walnut/){style="border-radius: 30px;" width=100% fig-align="center"}
-
-[Buy this item](https://www.mocka.co.nz/products/osaka-tallboy-walnut/){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
-
-
 ## Bedside tables x2
 [![Link embedded in image too](https://www.mocka.co.nz/cdn/shop/files/T04256_LowRes_01_e1a77aaa-b46c-4358-ac78-4447517798a5.jpg?v=1764583504&width=768)](https://www.mocka.co.nz/products/blair-bedside-table-walnut){style="border-radius: 30px;" width=100% fig-align="center"}
 
@@ -147,16 +129,6 @@ We like this one because it only has two buttons. A microwave needs no more than
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
-## Couch for our lounge
-[![Link embedded in image too](https://content.cylindo.com/api/v2/4970/products/LUNE%7CDAYBED%7CLAF%7C/frames/1/LUNE%7CDAYBED%7CLAF%7C.webp?size=1024&feature=ARTICLENUMBER:24549042)](https://www.freedomfurniture.co.nz/product/24549042){style="border-radius: 30px;" width=80% fig-align="center"}
-
-This is a "daybed" from a furniture store we really like. It has good reviews and is a premium furniture piece that we would probably never bring ourselves to buy if it was not gifted to us.
-
-[Buy this item](https://www.freedomfurniture.co.nz/product/24549042){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
-
-
 ## Dining room chairs (6 out of 6 available)
 [![Link embedded in image too](https://nood.co.nz/cdn/shop/files/b026f927849a7c335d24d653021caf61_1296x.jpg?v=1755561851)](https://nood.co.nz/products/barnaby-dining-chair-tan-pu){style="border-radius: 30px;" width=80% fig-align="center"}
 
@@ -167,32 +139,12 @@ The dining room chairs we have now are pretty worn. These new ones would look am
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
-## Bath towels x2
-[![Link embedded in image too](https://www.briscoes.co.nz/media/catalog/product/1/1/1127556001_sku_default_1_b2b1.jpg?auto=webp&format=webply&width=750&fit=cover&quality=50)](https://www.briscoes.co.nz/product/1127556/royal-doulton-chelsea-bath-towel/){style="border-radius: 30px;" width=80% fig-align="center"}
-
-In colour "glacier".
-
-[Buy this item](https://www.briscoes.co.nz/product/1127556/royal-doulton-chelsea-bath-towel/){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
-
-
 ## Basically anything from *Chef's Compliments*
 [![Link embedded in image](https://www.chefscomplements.co.nz/wp-content/uploads/2020/07/About-us-840.jpg)](https://www.chefscomplements.co.nz/){style="border-radius: 30px;" width=60% fig-align="center"}
 
 This is a local store on Gascoigne Street.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2923.821114931544!2d176.06914367584133!3d-38.685263784346816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6bf0c7225eeb6d%3A0xf6091374a49216ba!2sChef's%20Complements!5e1!3m2!1sen!2snz!4v1786254712330!5m2!1sen!2snz" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-
-
-## T.V. cabinet
-[![Link embedded in image too](https://www.mocka.co.nz/cdn/shop/files/T04083_LowRes_01_56b19fac-1a93-4908-82a4-b2880d259182.jpg?v=1764583429&width=2040)](https://www.mocka.co.nz/products/osaka-buffet-walnut/){style="border-radius: 30px;" width=90% fig-align="center"}
-
-We appreciate the one Teresa is lending us, but an upgrade would be lovely too.
-
-[Buy this item](https://www.mocka.co.nz/products/osaka-buffet-walnut/){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
 ## ~~Pot~~
