@@ -93,15 +93,10 @@ In "Brown pod" colour.
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
 
-## Pasta thingy for KitchenAid
-[![Link embedded in image too](https://hnsfpau.imgix.net/5/images/detailed/210/KSMPSA.01.jpg?fit=fill&bg=0FFF&w=785&h=441&auto=format,compress)](https://www.harveynorman.co.nz/home-appliances/kitchen-appliances/mixers/kitchenaid-pasta-roller-attachment.html){style="border-radius: 30px;" width=100% fig-align="center"}
+## ~~Pasta thingy for KitchenAid~~
+![](./kitchen_aid_purchased.jpg){style="border-radius: 30px;" width=100% fig-align="center"}
 
-"Pasta in the kitchen" (trap beat in background).
-
-[Buy this item](https://www.harveynorman.co.nz/home-appliances/kitchen-appliances/mixers/kitchenaid-pasta-roller-attachment.html){.btn .btn-primary role="button"}
-
-[I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
-
+~~"Pasta in the kitchen" (trap beat in background).~~
 
 ## Microwave
 [![Link embedded in image too](https://hnsfpau.imgix.net/5/images/detailed/240/MS2596OB.01.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress)](https://www.harveynorman.co.nz/home-appliances/kitchen-appliances/microwaves/lg-neochef-25l-smart-inverter-1000w-microwave-black-ms2596ob.html){style="border-radius: 30px;" width=100% fig-align="center"}
@@ -122,9 +117,9 @@ We like this one because it only has two buttons. A microwave needs no more than
 
 
 ## Towbar Mounted Bike rack 
-[![Link embedded in image too](https://d2gbn3pgimi594.cloudfront.net/image/product-image/853/164853~1200x1200.jpg)](https://www.evocycles.co.nz/Product/199392/thule-xpress-970-47-bike-carrier){style="border-radius: 30px;" width=65% fig-align="center"}
+[![Link embedded in image too](https://www.velocirax.co.nz/cdn/shop/files/3x_rack.png?v=1761148379&width=1800)](https://www.velocirax.co.nz/products/3x-max){style="border-radius: 30px;" width=65% fig-align="center"}
 
-[Buy this item](https://www.evocycles.co.nz/Product/199392/thule-xpress-970-47-bike-carrier){.btn .btn-primary role="button"}
+[Buy this item](https://www.velocirax.co.nz/products/3x-max){.btn .btn-primary role="button"}
 
 [I've Purchased This Item](https://docs.google.com/forms/d/e/1FAIpQLSeyLZHJW66ewn31h_Bxg0VkBsvwxVIv40VsfSgCTS7C0_PCFQ/viewform?usp=dialog){.btn .btn-primary}
 
