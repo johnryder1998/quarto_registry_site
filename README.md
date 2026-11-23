@@ -2,7 +2,7 @@
 `html` site built using Quarto. [site here](https://johnryder1998.github.io/quarto_registry_site/)
 
 ### Instructions
-In local repo create, preview, and build `html` files using Quarto. Only files needed to build the site are tracked. Therefore, `quarto render` must be run before pushing local changes to this remote repo.
+In local repo create, preview, and build `html` files using Quarto. `quarto render` must be run before pushing local changes to this remote repo.
 
 - Preview site locally with `quarto preview`
 
