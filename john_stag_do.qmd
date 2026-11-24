@@ -5,26 +5,10 @@ from: markdown+emoji
 
 <img src="alan_hangover.png" alt="Alt text" style="width: 40%; border-radius: 20px; float: left; margin-right: 15px;">
 
-<!--
-### Attendees
-Mitch
-Zach
-Toliy
-Cliff
-Sasha
-Thorn
-Dan
-Mark
-Jon
-Seth
-Mehul
-Tamati
-Charlie
-Pete
--->
-
 ## Date
 **Thursday January 21st, 2027**
 
 ## Days events
-Details to be provided in personal messages.
+See WhatsApp group chat organised by Zach.
+
+After going out on the lake, we will meet the girls [back at our house](https://maps.app.goo.gl/RE757YSxjpXu7qbc6) for a barbecue.

@@ -9,7 +9,7 @@ from: markdown+emoji
 
 Our wedding will be held on the 23rd of January, 2027 NZDT. The ceremony will be at our house - 23 Kererū street, Taupō, New Zealand.
 
-This site is to provide you with some details about logistics, and to help everyone stay organised. **There are more pages on this website. These other pages are visible either in a horizontal bar across the top of this page, or by clicking the three bars in the upper left corner.**
+This site is to provide you with some details about logistics, and to help everyone stay organised. ***There are more pages on this website. These other pages are visible either in a horizontal bar across the top of this page, or by clicking the three bars in the upper left corner.***
 
 To the yanks coming all this way - we want to help to make this a smooth trip for you, and appreciate that NZ is a long way to travel for a wedding. Hopefully after visiting you will understand why we have chosen to live here.
 
